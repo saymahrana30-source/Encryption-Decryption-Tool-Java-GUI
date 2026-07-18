@@ -326,7 +326,7 @@ separation between UI, business logic, and cryptographic primitives.
 
 ## 13. Author
 
-Built by Sam as a GTU Java course project and GitHub portfolio piece.
+Built by Saymah rana Java course project and GitHub portfolio piece.
 
 ---
 
