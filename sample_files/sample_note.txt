@@ -1,0 +1,3 @@
+This is a sample text file included for testing the File Encryption tab.
+Feel free to encrypt this file, then decrypt it, to confirm the tool
+restores the exact original content.

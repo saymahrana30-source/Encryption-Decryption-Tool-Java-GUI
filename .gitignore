@@ -1,0 +1,30 @@
+# Compiled class files / build output
+*.class
+build/
+out/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime-generated encrypted/decrypted output
+encrypted_files/*
+decrypted_files/*
+!encrypted_files/.gitkeep
+!decrypted_files/.gitkeep
+
+# Environment / secrets
+.env
+*.env
+
+# Logs
+*.log
